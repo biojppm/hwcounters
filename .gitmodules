@@ -1,0 +1,6 @@
+[submodule "ext/benchmark"]
+	path = ext/benchmark
+	url = https://github.com/google/benchmark
+[submodule "ext/pcm"]
+	path = ext/pcm
+	url = https://github.com/opcm/pcm
